@@ -1,0 +1,35 @@
+---
+title: "Andrew Wu"
+image: "IMG_2334.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/yuan-haw-andrew-wu-aa6844b2"
+  - label: Twitter
+    url: "https://x.com/wu_yha"
+  - label: GitHub
+    url: "https://github.com/drewwuu"
+output:
+  postcards::jolla
+---
+
+## About Me
+My name is Andrew Wu and I am a first year MHS student in Epidemiology. I am a General Surgery Resident in training and currently taking dedicated time to do research in cardiovascular epidemiology at the Welch Center, BSPH, JHU. 
+
+My research interest is clinical outcome and epidemiology in cardiovascular surgery
+
+
+## Education
+MD, Medicine, China Medical University, Taichung, 2019 
+
+MHS, Cardiovascular Epidemiology, Johns Hopkins University, 2026 (expected) 
+
+## Experience
+2019-2021,  Postdoctoral Research Fellow, Univesity of Colorado, Anschutz Medical Campus
+
+2021-2023, General Surgery Resident, Johns Hopkins Hospital, Department of Surgery
+
+2023-Present, General Surgery Resident, Albany Medical College, Department of Surgery
+
+2024-Present,  Postdoctoral Research Fellow, Welch Center for Prevention, Epidemiology and Clinical Research
+
+
